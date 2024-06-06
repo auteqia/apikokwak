@@ -1,0 +1,164 @@
+[
+   {
+      "id":"2",
+      "libelle":"Colvert",
+      "libelle2":"Anas platyrhynchos",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/Colvert_duck.jpg",
+      "alimentation":"Poissons et d'herbes, de graines et de vers, de grenouilles et d'insectes",
+      "habitat":"Prés humides, mares, étangs, marécages où poussent les roseaux, joncs et laîches",
+      "categorie":"barboteur"
+   },
+   {
+      "id":"5",
+      "libelle":"Amazonette ou Sarcelle du Brésil",
+      "libelle2":"Amazonetta brasiliensis",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/Amazonette_duck.jpg",
+      "alimentation":"Fruits, graines, racines de plantes locales et d'invertébrés, en particulier des insectes",
+      "habitat":"A l'intérieur des terres, sur des réservoirs ou des petits lacs d'eau douce",
+      "categorie":"barboteur"
+   },
+   {
+      "id":"7",
+      "libelle":"Canard des Bahamas",
+      "libelle2":"Anas bahamensis",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/Bahamas_duck.jpg",
+      "alimentation":"Algues, petits insectes",
+      "habitat":"Le continent américain, zones humides terrestres : tourbières, lacs eau douce, rivages marins rocheu",
+      "categorie":"barboteur"
+   },
+   {
+      "id":"9",
+      "libelle":"Canard souchet",
+      "libelle2":"Spatula clypeata, anciennement  Anas clypeata",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/Souchet_duck.jpg",
+      "alimentation":"Plancton, d'insectes aquatiques sous forme imago ou larvaire, de crustacés, de mollusques et d'éléme",
+      "habitat":"Marais, des lacs, des étangs, des estuaires, des stations de lagunage (préférence pour les eaux douc",
+      "categorie":"barboteur"
+   },
+   {
+      "id":"12",
+      "libelle":"Pilet",
+      "libelle2":"Anas acuta",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/Pilet_duck.jpg",
+      "alimentation":"Plantes, principalement en soirée ou de nuit",
+      "habitat":"Zones humides ouvertes comme les prairies humides ou la toundra. Il patauge volontiers dans les prai",
+      "categorie":"barboteur"
+   },
+   {
+      "id":"28",
+      "libelle":"Canard huppé",
+      "libelle2":"Lophonetta specularioides",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/Huppe_duck.jpg",
+      "alimentation":"Omnivore",
+      "habitat":"Tourbières, lacs eau douce, marais salins, rivages marins rocheux, falaises",
+      "categorie":"barboteur"
+   },
+   {
+      "id":"6",
+      "libelle":"Fuligule à collier",
+      "libelle2":"Aythya collaris",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/Fuligule_duck.jpg",
+      "alimentation":"Plantes aquatiques et des mollusques, des insectes aquatiques et de petits poissons",
+      "habitat":"Amérique du Nord et est occasionnel en Europe",
+      "categorie":"plongeur"
+   },
+   {
+      "id":"13",
+      "libelle":"Nette rousse",
+      "libelle2":"Netta rufina",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/NetteRousse_duck.jpg",
+      "alimentation":"Elle se nourrit en surface ou en plongeant. Elle mange principalement des végétaux aquatiques et dan",
+      "habitat":"Les lacs ou les plans d'eau entourés de roselières et les étangs pourvus d'une bonne végétation",
+      "categorie":"plongeur"
+   },
+   {
+      "id":"15",
+      "libelle":"Macreuse à front blanc",
+      "libelle2":"Melanitta perspicillata",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/Macreuse_duck.jpg",
+      "alimentation":"Divers invertébrés, principalement des crustacés et des mollusques",
+      "habitat":"Canada et en Alaska ; il hiverne le long des côtes jusqu'aux îles Aléoutiennes et le sud des États-U",
+      "categorie":"plongeur"
+   },
+   {
+      "id":"19",
+      "libelle":"Arlequin plongeur",
+      "libelle2":"Histrionicus histrionicus",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/Arlequin_duck.jpg",
+      "alimentation":"Insectes et des larves et des pupes de mouches, en été il se nourrit de crustacés et de mollusques",
+      "habitat":"Cet oiseau se reproduit sur les îles au milieu de torrents, souvent près des rapides et des cascades",
+      "categorie":"plongeur"
+   },
+   {
+      "id":"24",
+      "libelle":" Fuligule austral",
+      "libelle2":"Aythya australis",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/FuliguleAustral_duck.jpg",
+      "alimentation":"Petits animaux aquatiques",
+      "habitat":"Sud-est de l'Australie, il reste assez sédentaire mais il peut aller en Nouvelle-Guinée, Nouvelle-Zé",
+      "categorie":"plongeur"
+   },
+   {
+      "id":"26",
+      "libelle":"Eider de Steller",
+      "libelle2":"Polysticta stelleri",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/Eider_duck.jpg",
+      "alimentation":"Omnivore, insectes, mollusques, graines",
+      "habitat":"Côtes de la toundra en région arctique. Le reste de l'année, on peut le trouver sur les plans d'eau ",
+      "categorie":"plongeur"
+   },
+   {
+      "id":"18",
+      "libelle":"Harle couronné",
+      "libelle2":"Lophodytes cucullatus",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/HarleCouronne_duck.jpg",
+      "alimentation":" petits poissons, des crustacés et des insectes aquatiques ainsi que des graines de plantes aquatiqu",
+      "habitat":"Zones humides du nord-ouest des États-Unis, au sud du Canada et à l'est du Mississippi dans les eaux",
+      "categorie":"piscivore"
+   },
+   {
+      "id":"21",
+      "libelle":"Harle bièvre",
+      "libelle2":"Mergus merganser",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/HarleBievre_duck.jpg",
+      "alimentation":"Essentiellement de poissons mesurant généralement moins de 10 cm de long",
+      "habitat":"Il se rencontre près des fleuves, au bord des lacs, des rivières, sur les rives des grands étangs, l",
+      "categorie":"piscivore"
+   },
+   {
+      "id":"27",
+      "libelle":"Harle piette",
+      "libelle2":"Mergellus albellus",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/HarlePiette_duck.jpg",
+      "alimentation":"C'est un carnivore qui se nourrit essentiellement de poissons, d'insectes aquatiques et de leurs lar",
+      "habitat":"Majoritairement Scandinavie et dans le nord de la Russie, dans les forêts humides et nordiques",
+      "categorie":"piscivore"
+   },
+   {
+      "id":"1",
+      "libelle":"Mandarin",
+      "libelle2":"Aix galericulata",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/Mandarin_duck.jpg",
+      "alimentation":"Insectes, d'escargots, de poissons, plantes aquatiques et mollusques",
+      "habitat":"Originaire d'Asie du Nord-Est",
+      "categorie":"forestier"
+   },
+   {
+      "id":"4",
+      "libelle":"Branchu",
+      "libelle2":"Aix sponsa",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/Branchu_duck.jpg",
+      "alimentation":"Graines et fruits ainsi que d'insectes",
+      "habitat":"Zones boisées le long des rivières, les lacs et marais",
+      "categorie":"forestier"
+   },
+   {
+      "id":"3",
+      "libelle":"Musqué",
+      "libelle2":"Cairina moschata",
+      "image":"https:\/\/apikokwak.ddns.net\/img\/Muscovy_Duck.jpg",
+      "alimentation":"Racines, tiges, feuilles, mollusques, crustacés et insectes",
+      "habitat":"Amérique du Sud jusqu'au Mexique, Guyane",
+      "categorie":"pecheur"
+   }
+]
